@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
 
             int result = number1 - number2;
 
-            sonuc.setText("Result:" + result);
+            sonuc.setText("Sonuç:" + result);
         }
     }
 
@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
 
             int result = number1 * number2;
 
-            sonuc.setText("Result:" + result);
+            sonuc.setText("Sonuç:" + result);
         }
     }
 
@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
 
             int result = number1 / number2;
 
-            sonuc.setText("Result:" + result);
+            sonuc.setText("Sonuç:" + result);
         }
 
 
